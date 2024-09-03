@@ -27,4 +27,40 @@ The following datasets have been used in this project:
    - **Attributes:** Total positive cases, recovered cases, population.
 
 2. **Comparative Analysis of India and USA**  
-   How does the COVID-19 situation in India compare to
+   How does the COVID-19 situation in India compare to that in the USA?  
+   - **Method:** Exploratory data analysis and visualizations.
+   
+4. **Death Toll Analysis**  
+   What is the global death toll due to COVID-19, and how does it compare across different regions?  
+   - **Focus:** Death rates and their correlation with other factors.
+
+5. **Demographic Impact Analysis**  
+   How has COVID-19 impacted different age groups, genders, and ethnicities in India, the USA, and worldwide?  
+   - **Comparison:** Significant differences across these demographics.
+
+## Methodology
+
+- **Data Cleaning and Preprocessing:** Handling missing data, normalizing values, and preparing data for analysis.
+- **Exploratory Data Analysis (EDA):** Visualizations and initial insights into the data.
+- **Statistical Analysis:** Identifying relationships between variables and significant differences between groups.
+- **Time-Series Analysis:** Forecasting future trends in COVID-19 cases and deaths.
+- **Regression Analysis:** Predicting potential outcomes based on historical data.
+
+## Potential Outcomes
+
+- Insights into the COVID positive ratio across countries.
+- Comparative analysis between India and the USA.
+- Understanding the global death toll and its regional variations.
+- Demographic-specific impact assessment of COVID-19.
+
+## Tools and Libraries
+
+- **Python**
+- **Pandas** - Data manipulation and analysis.
+- **Matplotlib/Seaborn** - Data visualization.
+- **Statsmodels** - Statistical analysis.
+- **Scikit-learn** - Machine learning models for regression and forecasting.
+
+## Conclusion
+
+This project aims to provide a comprehensive analysis of the COVID-19 pandemic's impact on different countries and demographics. Through the use of statistical and predictive modeling techniques, we aim to uncover meaningful insights and future trends.
